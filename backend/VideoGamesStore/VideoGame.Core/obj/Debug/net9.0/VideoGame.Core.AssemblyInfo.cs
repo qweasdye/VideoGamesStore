@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("VideoGamesStore")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VideoGame.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c791f832a6ac039f3116330e67cf30fe9f146fe")]
-[assembly: System.Reflection.AssemblyProductAttribute("VideoGamesStore")]
-[assembly: System.Reflection.AssemblyTitleAttribute("VideoGamesStore")]
+[assembly: System.Reflection.AssemblyProductAttribute("VideoGame.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("VideoGame.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
