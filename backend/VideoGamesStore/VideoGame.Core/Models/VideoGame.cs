@@ -1,4 +1,4 @@
-﻿namespace VideoGame.Core.Models
+﻿namespace VideoGameStore.Core.Models
 {
     public class VideoGame
     {
@@ -14,9 +14,9 @@
         }
 
         public Guid Id { get; }
-        public string? Title { get; }
-        public string? Platform { get; }
-        public string? Developer { get; }
+        public string Title { get; }
+        public string Platform { get; }
+        public string Developer { get; }
         public decimal Price { get; }
 
         public static (VideoGame VideoGame, string Error) Create(Guid id, string title, string platform, string developer, decimal price)

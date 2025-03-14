@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\VideoGamesStore.csproj": {}
+    "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\VideoGameStore.Core.csproj": {}
   },
   "projects": {
-    "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\VideoGamesStore.csproj": {
+    "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\VideoGameStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\VideoGamesStore.csproj",
-        "projectName": "VideoGamesStore",
-        "projectPath": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\VideoGamesStore.csproj",
+        "projectUniqueName": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\VideoGameStore.Core.csproj",
+        "projectName": "VideoGameStore.Core",
+        "projectPath": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\VideoGameStore.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\obj\\",
+        "outputPath": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\visual studio остальное\\NuGetPackages"
@@ -50,20 +50,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[9.0.3, )"
-            },
-            "Scalar.AspNetCore": {
-              "target": "Package",
-              "version": "[2.0.30, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -76,9 +62,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

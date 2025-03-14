@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\VideoGame.Core.csproj",
-      "projectName": "VideoGame.Core",
-      "projectPath": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\VideoGame.Core.csproj",
+      "projectUniqueName": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\VideoGameStore.Core.csproj",
+      "projectName": "VideoGameStore.Core",
+      "projectPath": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\VideoGameStore.Core.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\obj\\",
       "projectStyle": "PackageReference",
