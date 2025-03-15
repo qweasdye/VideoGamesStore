@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGameStore.Core", "Vide
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGameStore.DataAccess", "VideoGameStore.DataAccess\VideoGameStore.DataAccess.csproj", "{18339927-0DD4-4140-806D-FCC73739E92D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGames.Application", "VideoGames.Application\VideoGames.Application.csproj", "{7A12B611-6179-4101-A844-28F4E160BF0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{18339927-0DD4-4140-806D-FCC73739E92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18339927-0DD4-4140-806D-FCC73739E92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18339927-0DD4-4140-806D-FCC73739E92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A12B611-6179-4101-A844-28F4E160BF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A12B611-6179-4101-A844-28F4E160BF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A12B611-6179-4101-A844-28F4E160BF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A12B611-6179-4101-A844-28F4E160BF0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

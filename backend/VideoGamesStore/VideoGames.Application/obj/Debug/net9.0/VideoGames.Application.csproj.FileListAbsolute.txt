@@ -1,0 +1,16 @@
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\bin\Debug\net9.0\VideoGames.Application.deps.json
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\bin\Debug\net9.0\VideoGames.Application.dll
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\bin\Debug\net9.0\VideoGames.Application.pdb
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\bin\Debug\net9.0\VideoGameStore.Core.dll
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\bin\Debug\net9.0\VideoGameStore.Core.pdb
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\VideoGames.Application.csproj.AssemblyReference.cache
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\VideoGames.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\VideoGames.Application.AssemblyInfoInputs.cache
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\VideoGames.Application.AssemblyInfo.cs
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\VideoGames.Application.csproj.CoreCompileInputs.cache
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\VideoGames.Application.sourcelink.json
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\VideoGam.EF14A482.Up2Date
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\VideoGames.Application.dll
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\refint\VideoGames.Application.dll
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\VideoGames.Application.pdb
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGames.Application\obj\Debug\net9.0\ref\VideoGames.Application.dll

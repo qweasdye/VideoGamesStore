@@ -1,0 +1,12 @@
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\bin\Debug\net9.0\VideoGameStore.Core.deps.json
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\bin\Debug\net9.0\VideoGameStore.Core.dll
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\bin\Debug\net9.0\VideoGameStore.Core.pdb
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\obj\Debug\net9.0\VideoGameStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\obj\Debug\net9.0\VideoGameStore.Core.AssemblyInfoInputs.cache
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\obj\Debug\net9.0\VideoGameStore.Core.AssemblyInfo.cs
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\obj\Debug\net9.0\VideoGameStore.Core.csproj.CoreCompileInputs.cache
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\obj\Debug\net9.0\VideoGameStore.Core.sourcelink.json
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\obj\Debug\net9.0\VideoGameStore.Core.dll
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\obj\Debug\net9.0\refint\VideoGameStore.Core.dll
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\obj\Debug\net9.0\VideoGameStore.Core.pdb
+E:\C# pet projects\VideoGamesStore\backend\VideoGamesStore\VideoGame.Core\obj\Debug\net9.0\ref\VideoGameStore.Core.dll
