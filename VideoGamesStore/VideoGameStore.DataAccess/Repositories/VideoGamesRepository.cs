@@ -15,7 +15,7 @@ namespace VideoGameStore.DataAccess.Repositories
 
         public async Task<List<VideoGame>> Get()
         {
-            var videoGameEntities = await _context.VideoGame
+            var videoGameEntities = await _context.VideoGames
                 .AsNoTracking()
                 .ToListAsync();
 
@@ -26,6 +26,14 @@ namespace VideoGameStore.DataAccess.Repositories
 
             return games;
         }
+
+        //public async Task<Guid> GetById(Guid id)
+        //{
+        //    var videoGameEntities = await _context.VideoGames
+        //        .AsNoTracking().FirstOrDefaultAsync();
+
+        //    return videoGameEntities;
+        //}
 
         public async Task<Guid> Create(VideoGame videoGame)
         {
@@ -38,7 +46,7 @@ namespace VideoGameStore.DataAccess.Repositories
                 Price = videoGame.Price
             };
 
-            await _context.VideoGame.AddAsync(videoGameEntities);
+            await _context.VideoGames.AddAsync(videoGameEntities);
             await _context.SaveChangesAsync();
 
             return videoGameEntities.Id;
@@ -46,7 +54,7 @@ namespace VideoGameStore.DataAccess.Repositories
 
         public async Task<Guid> Update(Guid id, string title, string platform, string developer, decimal price)
         {
-            await _context.VideoGame
+            await _context.VideoGames
                 .Where(v => v.Id == id).
                 ExecuteUpdateAsync(s => s
                 .SetProperty(v => v.Title, v => title)
@@ -59,7 +67,7 @@ namespace VideoGameStore.DataAccess.Repositories
 
         public async Task<Guid> Delete(Guid id)
         {
-            await _context.VideoGame
+            await _context.VideoGames
                 .Where(v => v.Id == id)
                 .ExecuteDeleteAsync();
 

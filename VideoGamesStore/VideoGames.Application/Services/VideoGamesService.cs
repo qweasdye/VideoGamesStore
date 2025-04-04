@@ -16,6 +16,10 @@ namespace VideoGames.Application.Services
         {
             return await _videoGamesRepository.Get();
         }
+        //public async Task<VideoGame> GetVideoGame(Guid id)
+        //{
+        //    return await _videoGamesRepository.GetById(id);
+        //}
 
         public async Task<Guid> CreateVideoGame(VideoGame videoGame)
         {

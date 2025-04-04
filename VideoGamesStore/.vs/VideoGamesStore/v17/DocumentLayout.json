@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamestore.dataaccess\\configurations\\videogameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|solutionrelative:videogamestore.dataaccess\\configurations\\videogameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamesstore\\controllers\\videogamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|solutionrelative:videogamesstore\\controllers\\videogamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamestore.dataaccess\\migrations\\videogamesstoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|solutionrelative:videogamestore.dataaccess\\migrations\\videogamesstoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamestore.dataaccess\\videogamesstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|solutionrelative:videogamestore.dataaccess\\videogamesstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamestore.dataaccess\\entities\\videogameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|solutionrelative:videogamestore.dataaccess\\entities\\videogameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamestore.dataaccess\\configurations\\videogameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|solutionrelative:videogamestore.dataaccess\\configurations\\videogameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BC8D1F-2872-44FF-83CB-99DDFF69F0C3}|VideoGame.Core\\VideoGameStore.Core.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogame.core\\abstractions\\ivideogamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BC8D1F-2872-44FF-83CB-99DDFF69F0C3}|VideoGame.Core\\VideoGameStore.Core.csproj|solutionrelative:videogame.core\\abstractions\\ivideogamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81BC8D1F-2872-44FF-83CB-99DDFF69F0C3}|VideoGame.Core\\VideoGameStore.Core.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogame.core\\abstractions\\ivideogamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81BC8D1F-2872-44FF-83CB-99DDFF69F0C3}|VideoGame.Core\\VideoGameStore.Core.csproj|solutionrelative:videogame.core\\abstractions\\ivideogamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamestore.dataaccess\\migrations\\20250404072541_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|solutionrelative:videogamestore.dataaccess\\migrations\\20250404072541_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamesstore\\contracts\\videogamesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|solutionrelative:videogamesstore\\contracts\\videogamesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamestore.dataaccess\\migrations\\20250404072541_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|solutionrelative:videogamestore.dataaccess\\migrations\\20250404072541_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamesstore\\contracts\\videogamesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|solutionrelative:videogamesstore\\contracts\\videogamesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A12B611-6179-4101-A844-28F4E160BF0F}|VideoGames.Application\\VideoGames.Application.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogames.application\\services\\videogamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A12B611-6179-4101-A844-28F4E160BF0F}|VideoGames.Application\\VideoGames.Application.csproj|solutionrelative:videogames.application\\services\\videogamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamestore.dataaccess\\repositories\\videogamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +51,16 @@
       "RelativeMoniker": "D:0:0:{81BC8D1F-2872-44FF-83CB-99DDFF69F0C3}|VideoGame.Core\\VideoGameStore.Core.csproj|solutionrelative:videogame.core\\models\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamesstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|solutionrelative:videogamesstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamesstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|solutionrelative:videogamesstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamesstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|solutionrelative:videogamesstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A12B611-6179-4101-A844-28F4E160BF0F}|VideoGames.Application\\VideoGames.Application.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogames.application\\services\\videogamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A12B611-6179-4101-A844-28F4E160BF0F}|VideoGames.Application\\VideoGames.Application.csproj|solutionrelative:videogames.application\\services\\videogamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamesstore\\contracts\\videogamesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|solutionrelative:videogamesstore\\contracts\\videogamesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamesstore\\controllers\\videogamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|solutionrelative:videogamesstore\\controllers\\videogamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81BC8D1F-2872-44FF-83CB-99DDFF69F0C3}|VideoGame.Core\\VideoGameStore.Core.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogame.core\\abstractions\\ivideogamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81BC8D1F-2872-44FF-83CB-99DDFF69F0C3}|VideoGame.Core\\VideoGameStore.Core.csproj|solutionrelative:videogame.core\\abstractions\\ivideogamesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamestore.dataaccess\\videogamesstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18339927-0DD4-4140-806D-FCC73739E92D}|VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj|solutionrelative:videogamestore.dataaccess\\videogamesstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86F92CF6-76FD-498A-8F6B-1AE8E85AFBFF}|VideoGamesStore\\VideoGamesStore.csproj|e:\\c# pet projects\\videogamesstore\\backend\\videogamesstore\\videogamesstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -82,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,68 +106,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250404072541_initial.Designer.cs",
-              "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Migrations\\20250404072541_initial.Designer.cs",
-              "RelativeDocumentMoniker": "VideoGameStore.DataAccess\\Migrations\\20250404072541_initial.Designer.cs",
-              "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Migrations\\20250404072541_initial.Designer.cs",
-              "RelativeToolTip": "VideoGameStore.DataAccess\\Migrations\\20250404072541_initial.Designer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAtwA8AAAASAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "VideoGamesStoreDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Migrations\\VideoGamesStoreDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VideoGameStore.DataAccess\\Migrations\\VideoGamesStoreDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Migrations\\VideoGamesStoreDbContextModelSnapshot.cs",
+              "RelativeToolTip": "VideoGameStore.DataAccess\\Migrations\\VideoGamesStoreDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:31:07.099Z",
+              "WhenOpened": "2025-04-04T09:04:37.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250404072541_initial.cs",
-              "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Migrations\\20250404072541_initial.cs",
-              "RelativeDocumentMoniker": "VideoGameStore.DataAccess\\Migrations\\20250404072541_initial.cs",
-              "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Migrations\\20250404072541_initial.cs",
-              "RelativeToolTip": "VideoGameStore.DataAccess\\Migrations\\20250404072541_initial.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:31:03.068Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VideoGamesStore\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VideoGamesStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T08:26:41.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "VideoGamesRequest.cs",
+              "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\Contracts\\VideoGamesRequest.cs",
+              "RelativeDocumentMoniker": "VideoGamesStore\\Contracts\\VideoGamesRequest.cs",
+              "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\Contracts\\VideoGamesRequest.cs",
+              "RelativeToolTip": "VideoGamesStore\\Contracts\\VideoGamesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:44:26.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "VideoGamesResponse.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\Contracts\\VideoGamesResponse.cs",
               "RelativeDocumentMoniker": "VideoGamesStore\\Contracts\\VideoGamesResponse.cs",
               "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\Contracts\\VideoGamesResponse.cs",
               "RelativeToolTip": "VideoGamesStore\\Contracts\\VideoGamesResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T06:38:32.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T06:38:32.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "VideoGamesController.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\Controllers\\VideoGamesController.cs",
               "RelativeDocumentMoniker": "VideoGamesStore\\Controllers\\VideoGamesController.cs",
               "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\Controllers\\VideoGamesController.cs",
               "RelativeToolTip": "VideoGamesStore\\Controllers\\VideoGamesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T06:35:28.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IVideoGamesService.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\Abstractions\\IVideoGamesService.cs",
               "RelativeDocumentMoniker": "VideoGame.Core\\Abstractions\\IVideoGamesService.cs",
               "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\Abstractions\\IVideoGamesService.cs",
               "RelativeToolTip": "VideoGame.Core\\Abstractions\\IVideoGamesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T06:31:20.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T06:31:20.334Z"
             },
             {
               "$type": "Document",
@@ -173,14 +186,13 @@
               "RelativeDocumentMoniker": "VideoGames.Application\\Services\\VideoGamesService.cs",
               "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGames.Application\\Services\\VideoGamesService.cs",
               "RelativeToolTip": "VideoGames.Application\\Services\\VideoGamesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T06:12:21.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T06:12:21.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\appsettings.Development.json",
               "RelativeDocumentMoniker": "VideoGamesStore\\appsettings.Development.json",
@@ -192,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\appsettings.json",
               "RelativeDocumentMoniker": "VideoGamesStore\\appsettings.json",
@@ -200,38 +212,35 @@
               "RelativeToolTip": "VideoGamesStore\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-14T13:19:05.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T13:19:05.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "IVideoGamesRepository.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\Abstractions\\IVideoGamesRepository.cs",
               "RelativeDocumentMoniker": "VideoGame.Core\\Abstractions\\IVideoGamesRepository.cs",
               "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\Abstractions\\IVideoGamesRepository.cs",
               "RelativeToolTip": "VideoGame.Core\\Abstractions\\IVideoGamesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:03:58.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T13:03:58.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "VideoGamesRepository.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Repositories\\VideoGamesRepository.cs",
               "RelativeDocumentMoniker": "VideoGameStore.DataAccess\\Repositories\\VideoGamesRepository.cs",
               "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Repositories\\VideoGamesRepository.cs",
               "RelativeToolTip": "VideoGameStore.DataAccess\\Repositories\\VideoGamesRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:40:00.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:40:00.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "VideoGameStore.Core.csproj",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\VideoGameStore.Core.csproj",
               "RelativeDocumentMoniker": "VideoGame.Core\\VideoGameStore.Core.csproj",
@@ -243,20 +252,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "VideoGameConfiguration.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Configurations\\VideoGameConfiguration.cs",
               "RelativeDocumentMoniker": "VideoGameStore.DataAccess\\Configurations\\VideoGameConfiguration.cs",
               "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Configurations\\VideoGameConfiguration.cs",
               "RelativeToolTip": "VideoGameStore.DataAccess\\Configurations\\VideoGameConfiguration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:23:43.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:23:43.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "VideoGamesStore.http",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\VideoGamesStore.http",
               "RelativeDocumentMoniker": "VideoGamesStore\\VideoGamesStore.http",
@@ -268,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "VideoGameEntity.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\Entities\\VideoGameEntity.cs",
               "RelativeDocumentMoniker": "VideoGameStore.DataAccess\\Entities\\VideoGameEntity.cs",
@@ -276,12 +284,11 @@
               "RelativeToolTip": "VideoGameStore.DataAccess\\Entities\\VideoGameEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:18:26.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:18:26.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "VideoGameStore.DataAccess.csproj",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj",
               "RelativeDocumentMoniker": "VideoGameStore.DataAccess\\VideoGameStore.DataAccess.csproj",
@@ -293,33 +300,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "VideoGamesStoreDbContext.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\VideoGamesStoreDbContext.cs",
               "RelativeDocumentMoniker": "VideoGameStore.DataAccess\\VideoGamesStoreDbContext.cs",
               "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGameStore.DataAccess\\VideoGamesStoreDbContext.cs",
               "RelativeToolTip": "VideoGameStore.DataAccess\\VideoGamesStoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T11:10:24.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "VideoGame.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\Models\\VideoGame.cs",
               "RelativeDocumentMoniker": "VideoGame.Core\\Models\\VideoGame.cs",
               "ToolTip": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGame.Core\\Models\\VideoGame.cs",
               "RelativeToolTip": "VideoGame.Core\\Models\\VideoGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:34:10.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:34:10.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C# pet projects\\VideoGamesStore\\backend\\VideoGamesStore\\VideoGamesStore\\Program.cs",
               "RelativeDocumentMoniker": "VideoGamesStore\\Program.cs",
@@ -327,8 +333,7 @@
               "RelativeToolTip": "VideoGamesStore\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:29:04.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:29:04.525Z"
             },
             {
               "$type": "Bookmark",

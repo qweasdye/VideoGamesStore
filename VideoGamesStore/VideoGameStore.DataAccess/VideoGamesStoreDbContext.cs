@@ -10,6 +10,6 @@ namespace VideoGameStore.DataAccess
             
         }
 
-        public DbSet<VideoGameEntity> VideoGame { get; set; }
+        public DbSet<VideoGameEntity> VideoGames { get; set; }
     }
 }

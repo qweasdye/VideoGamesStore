@@ -12,7 +12,7 @@ using VideoGameStore.DataAccess;
 namespace VideoGameStore.DataAccess.Migrations
 {
     [DbContext(typeof(VideoGamesStoreDbContext))]
-    [Migration("20250404072541_initial")]
+    [Migration("20250404090342_initial")]
     partial class initial
     {
         /// <inheritdoc />
@@ -45,7 +45,7 @@ namespace VideoGameStore.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("VideoGame");
+                    b.ToTable("VideoGames");
                 });
 #pragma warning restore 612, 618
         }

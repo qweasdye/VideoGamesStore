@@ -42,7 +42,7 @@ namespace VideoGameStore.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("VideoGame");
+                    b.ToTable("VideoGames");
                 });
 #pragma warning restore 612, 618
         }
